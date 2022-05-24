@@ -5,10 +5,9 @@
 }
 
 
-/* body {
-    font-family: Raleway;
-    background-color: #202125;
-} */
+body {
+background: url("./img/hey.jpg") no-repeat center center fixed;
+}
 
 .heading {
     text-align: center;
