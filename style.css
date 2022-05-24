@@ -278,6 +278,15 @@ p {
     top: 0;
 }
 
+#header .nav-bar h1 img:hover {
+    transition: 5s;
+    -webkit-transition: 5s;
+    -moz-transition: 5s;
+    -ms-transition: 5s;
+    -o-transition: 5s;
+    transform: rotateY(360deg);
+}
+
 
 /* End Header section */
 
